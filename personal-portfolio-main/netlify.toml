@@ -5,6 +5,7 @@
 
 [build.environment]
   NODE_VERSION = "20.18.1"
+  YARN_VERSION = "1.22.22"
 
 # Redirect rules for Gatsby (not SPA)
 [[redirects]]
