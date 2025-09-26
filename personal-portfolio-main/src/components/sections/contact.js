@@ -81,12 +81,12 @@ const Contact = () => {
         Whether you have an exciting project, a job opportunity, or just want to connect, I'd love to hear from you!
       </p>
 
-      <a className="email-link" href={`mailto:${email}?subject=Hello from Portfolio`}>
+      <a className="email-link" href={`mailto:${email}?subject=Hello from Portfolio`} title="Send an email to mohanvivek2421@gmail.com">
         Say Hello
       </a>
 
       <p className="email-address">
-        or <a href={`mailto:${email}?subject=Hello from Portfolio`}>email me directly</a>
+        or <a href={`mailto:${email}?subject=Hello from Portfolio`} title="Send an email to mohanvivek2421@gmail.com">email me directly</a>
       </p>
     </StyledContactSection>
   );
