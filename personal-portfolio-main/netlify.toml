@@ -1,11 +1,10 @@
 [build]
   publish = "public"
-  command = "yarn build"
+  command = "npm run build"
   functions = "netlify/functions"
 
 [build.environment]
   NODE_VERSION = "20.18.1"
-  YARN_VERSION = "1.22.22"
 
 # Redirect rules for Gatsby (not SPA)
 [[redirects]]
