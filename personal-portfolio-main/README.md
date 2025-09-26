@@ -2,7 +2,7 @@
   <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  M Mohan S S N Vivek - Personal Portfolio
+  M MOHAN S S N VIVEK - Personal Portfolio
 </h1>
 <p align="center">
   A modern, responsive portfolio website built with <a href="https://www.gatsbyjs.com/" target="_blank">Gatsby v5</a> and hosted with <a href="https://www.netlify.com/" target="_blank">Netlify</a>
@@ -255,7 +255,7 @@ This portfolio is built upon the excellent foundation created by [Brittany Chian
 - Fonts from [Google Fonts](https://fonts.google.com/)
 - Animations by [Anime.js](https://animejs.com/) and [ScrollReveal](https://scrollrevealjs.org/)
 
-**Modifications & Enhancements by M Mohan S S N Vivek:**
+**Modifications & Enhancements by M MOHAN S S N VIVEK:**
 - Updated to modern tech stack (Gatsby v5, React 18)
 - Personalized content and branding
 - Enhanced performance optimizations
@@ -265,13 +265,18 @@ This portfolio is built upon the excellent foundation created by [Brittany Chian
 
 ## 📧 Contact
 
-**M Mohan S S N Vivek**
-- Email: mohanvivek2421@gmail.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/your-profile)
-- GitHub: [@your-username](https://github.com/your-username)
+**M MOHAN S S N VIVEK**
+- 📍 India
+- 📞 (+91) 8794298711
+- ✉️ Email: mohanvivek2421@gmail.com
+- 🔗 [GitHub](https://github.com/maheswara2421)
+- 🔗 [LinkedIn](https://linkedin.com/in/mantini-mohan-s-s-n-vivek-857726340)
+- 🔗 [X (Twitter)](https://x.com/mohanvivek2421)
+- 🔗 [CodePen](https://codepen.io/MANTINI-MOHAN-S-S-N-VIVEK)
+- 🔗 [Instagram](https://instagram.com/meme_lover_2421)
 
 ---
 
 <div align="center">
-  Made with ❤️ by M Mohan S S N Vivek
+  Made with ❤️ by M MOHAN S S N VIVEK
 </div>
