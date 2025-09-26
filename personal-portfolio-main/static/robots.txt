@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# Block access to admin areas
+Disallow: /admin/
+
+# Block access to sensitive files
+Disallow: *.json
+Disallow: /static/admin/
+
+# Allow crawling of main content
+Allow: /pensieve/
+Allow: /work/
+
+# Sitemap
+Sitemap: https://mohanvivek.com/sitemap.xml
