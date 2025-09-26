@@ -84,7 +84,7 @@ const Contact = () => {
       </a>
 
       <p className="email-address">
-        or email me directly at <a href={`mailto:${email}`}>{email}</a>
+        or <a href={`mailto:${email}`}>email me directly</a>
       </p>
     </StyledContactSection>
   );
