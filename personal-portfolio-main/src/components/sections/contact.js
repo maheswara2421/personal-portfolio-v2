@@ -53,6 +53,11 @@ const StyledContactSection = styled.section`
         text-decoration: underline;
       }
     }
+
+    .email-text {
+      font-family: var(--font-mono);
+      font-weight: 500;
+    }
   }
 `;
 
@@ -86,7 +91,7 @@ const Contact = () => {
       </a>
 
       <p className="email-address">
-        or <a href={`mailto:${email}?subject=Hello from Portfolio`} title="Send an email to mohanvivek2421@gmail.com">email me directly</a>
+        or <a href={`mailto:${email}?subject=Hello from Portfolio`} title="Send an email to mohanvivek2421@gmail.com">email me directly</a> at <span className="email-text">{email}</span>
       </p>
     </StyledContactSection>
   );
