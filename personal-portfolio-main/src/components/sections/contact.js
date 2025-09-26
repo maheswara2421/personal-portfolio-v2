@@ -39,6 +39,19 @@ const StyledContactSection = styled.section`
     ${({ theme }) => theme.mixins.bigButton};
     margin-top: 50px;
   }
+
+  .email-address {
+    margin-top: 20px;
+    font-size: var(--fz-sm);
+    color: var(--slate);
+
+    a {
+      color: var(--green);
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
 `;
 
 const Contact = () => {
@@ -69,6 +82,10 @@ const Contact = () => {
       <a className="email-link" href={`mailto:${email}`}>
         Say Hello
       </a>
+
+      <p className="email-address">
+        or email me directly at <a href={`mailto:${email}`}>{email}</a>
+      </p>
     </StyledContactSection>
   );
 };
