@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://drive.google.com/file/d/1L_GXWbv8l-vLPJ_o4Hlpr9Vlit65LBa7/view?usp=sharing" width="100" />
 </div>
 <h1 align="center">
   M MOHAN S S N VIVEK - Personal Portfolio
@@ -13,7 +13,8 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+
+[Live Demo](https://personal-portfolio-v2-main.netlify.app/) | [GitHub Repository](https://github.com/maheswara2421/maheswara2421.github.io)
 
 ## 🚀 Features
 
